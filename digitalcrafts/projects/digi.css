@@ -1,0 +1,22 @@
+.logo{
+    font-size: 25px;
+    float: left;
+
+}
+
+.links{
+    font-size: 20px;
+    float: right;
+    color: gray;
+    display: inline-block;
+}
+.links span{
+    margin: 10px;
+    
+}
+
+main {
+    clear: both;
+    padding-top: 20px;
+    text-align: center;
+}
