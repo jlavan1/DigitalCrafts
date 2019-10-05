@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.image{
+    background-image: url("Jamail Rural wall.jpg");
+    background-repeat: no-repeat; /* Do not repeat the image */
+    height: 500px;
+    background-position: center; /* Center the image */
+    
+    
+}
+
