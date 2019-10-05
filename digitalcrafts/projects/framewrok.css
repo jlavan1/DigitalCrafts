@@ -1,0 +1,38 @@
+.logo{
+height: 1%;
+width: 1%;
+}
+
+.Menu{
+    display: inline-block;
+}
+
+
+.Title1{
+    margin-bottom: 20px;
+    padding: 40px;
+
+}
+.Title2{
+    margin-bottom: 20px;
+    padding: 20px;
+
+}
+
+.Footer{
+    position: absolute;
+    bottom: 2px;
+    text-align: center;
+}
+.SomeText1{
+    margin-bottom: 20px;
+    padding: 40px;
+}
+.SomeText2{
+    margin-bottom: 20px;
+    padding: 40px;
+}
+.SomeText3{
+    margin-bottom: 20px;
+    padding: 40px;
+}
