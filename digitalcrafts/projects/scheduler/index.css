@@ -1,0 +1,22 @@
+#Signin_Box{
+    background-color: aqua;
+    height: 20rem;
+    width: 20rem;
+    border: 1px solid black;
+    margin: auto;
+    display: inline-block;
+    margin-left: 25%;
+    margin-top: 8%;
+    text-align: center;
+    
+    
+}
+#Register_Box{
+    display: inline-block;
+    background-color: aqua;
+    height: 20rem;
+    width: 20rem;
+    border: 1px solid black;
+    margin: 2rem;
+    text-align: center;
+}
