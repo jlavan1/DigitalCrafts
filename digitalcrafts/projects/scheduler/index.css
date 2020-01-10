@@ -1,5 +1,5 @@
 body {
-    background-image: image();
+    background-image: image("Background_Calendar");
     background-color: rgb(217, 221, 224);
 }
 
