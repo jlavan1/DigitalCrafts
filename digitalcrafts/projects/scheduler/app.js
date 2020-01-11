@@ -13,6 +13,18 @@ app.set('views', __dirname + '/views');
 
 app.get('/', (req, res) => {
 
+    res.render('index');
+
+})
+
+app.get('/login', (req, res) => {
+
+    res.render('index');
+
+})
+
+app.get('/register', (req, res) => {
+
     res.render('index.mustache');
 
 })
