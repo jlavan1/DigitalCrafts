@@ -1,6 +1,7 @@
 body {
-    background-image: image("Background_Calendar");
-    background-color: rgb(217, 221, 224);
+   /* background-image: url("Background_Calendar.jpg"); */
+     background-color: rgb(5, 34, 56); 
+     color:  rgb(0, 89, 255);
 }
 
 #Signin_Box{
